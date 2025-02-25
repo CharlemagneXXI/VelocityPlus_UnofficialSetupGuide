@@ -1,0 +1,1 @@
+Hi, Charlemagne here. The guide is here : [https://github.com/CharlemagneXXI/VelocityPlus_UnofficialSetupGuide/blob/2a85f379841f001d1c65f15d2b591c16471ea52b/VelocityPlus%20-%20UnofficialSetupGuide.md]

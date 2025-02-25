@@ -30,7 +30,7 @@ You can also ignore this part and follow <a href="https://dev.epicgames.com/docu
 
 Download <a href="https://visualstudio.microsoft.com/vs">Visual Studio 2022</a> and run the setup executable. Once launched, you will need to install the 2022 community version ( you can use 2019 but 2022 is better if you consider doing other projects with UE5 as well ).
 
-![image](https://github.com/CharlemagneXXI/Images/blob/main/Pasted%20image%2020250225175012.png?raw=true)
+![image](https://github.com/CharlemagneXXI/Images/blob/1e6c98ff8c04d9b6a96434baefa4c40dabc67d4b/Pasted%20image%2020250225175012.png)
 ## 1.2 - Getting the proper options
 
 For Visual Studio to work with Unreal Engine, you'll need to select the following options :
